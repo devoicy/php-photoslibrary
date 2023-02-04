@@ -40,7 +40,7 @@ Examples are not downloaded by this download method.
 
 
 ```
-$ composer require google/photos-library
+$ composer require devoicy/photos-library
 ```
 
 
